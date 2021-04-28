@@ -1,1 +1,1 @@
-web: gunicorn convo.wsgi
+web: gunicorn convo:app
